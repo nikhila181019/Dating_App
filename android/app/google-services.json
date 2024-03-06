@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "260148957894",
+    "project_id": "internshalatask-c1b58",
+    "storage_bucket": "internshalatask-c1b58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260148957894:android:0ed6e35b5ee6d18a5e7dc7",
+        "android_client_info": {
+          "package_name": "com.example.internshala_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ2MsreL8qod0ACKnO_tk2Kghp0uw5TWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
